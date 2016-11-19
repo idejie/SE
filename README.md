@@ -1,3 +1,1 @@
-<b><div align = right><font size='24sp'>XXXXX</font></div></b>
-
-
+<h1 align = "center">这是居中标题</h1>
