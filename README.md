@@ -18,6 +18,8 @@
 
 **邮箱**：i@idejie.com
 
+**Blog**：blog.idejie.com
+
 
 
 ## 协议
