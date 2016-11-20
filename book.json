@@ -15,7 +15,7 @@
             // Configuration for autocover (see below)
             "font": {
                 "size": null,
-                "family": "Impact",
+                "family": "Sans",
                 "color": "#FFF"
             },
             "size": {
@@ -23,7 +23,7 @@
                 "h": 2360
             },
             "background": {
-                "color": "#09F"
+                "color": "#000"
             }
         }
     }
