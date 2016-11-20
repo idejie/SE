@@ -1,0 +1,30 @@
+{
+    "title": "SE",
+    "author": "idejie",
+    "plugins": [
+        "autocover",
+        "etoc"
+    ],
+    "pluginsConfig": {
+        "etoc": {
+            "mindepth": "3",
+            "maxdepth": "4",
+            "notoc": false
+        },
+        "autocover": {
+            // Configuration for autocover (see below)
+            "font": {
+                "size": null,
+                "family": "HeitiSC",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#000"
+            }
+        }
+    }
+}
