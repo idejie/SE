@@ -15,7 +15,7 @@
             // Configuration for autocover (see below)
             "font": {
                 "size": null,
-                "family": "Sans",
+                "family": "HeitiSC",
                 "color": "#FFF"
             },
             "size": {
