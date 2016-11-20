@@ -3,5 +3,11 @@
         "autocover",
         "etoc"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "etoc": {
+            "mindepth": "3",
+            "maxdepth": "4",
+            "notoc": false
+        }
+    }
 }
