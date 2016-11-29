@@ -6,7 +6,7 @@
 
 ## 重点
 
-有错误或者遗漏？[前往修改](https://github.com/YangDejie/SE/edit/master/README.md)
+有错误或者遗漏？[**前往修改**](https://github.com/YangDejie/SE/edit/master/README.md)
 
 ### Chapter1
 
