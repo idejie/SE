@@ -63,4 +63,4 @@
 
 **阶段开发模型**和**螺旋模型**
 
-有错误或者遗漏？[前往修改](https://github.com/YangDejie/SE/edit/master/chapter2.md)
+有错误或者遗漏？[前往修改](https://github.com/YangDejie/SE/edit/master/chapter2g.md)
