@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "duoshuo"
+        "duoshuo",
+        "donate"
     ],
     "pluginsConfig": {}
 }
