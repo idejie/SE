@@ -9,5 +9,5 @@
 * [Chapter6](chapter6.md)
 * [Chapter7](chapter7.md)
 * [Chapter8](chapter8.md)
-* Chapter9
+* [Chapter9](chapter9.md)
 
