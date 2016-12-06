@@ -8,4 +8,5 @@
 * [Chapter5](chapter5.md)
 * Chapter6
 * Chapter7
+* Chapter8
 
