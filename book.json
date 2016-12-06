@@ -1,8 +1,7 @@
 {
     "plugins": [
         "duoshuo",
-        "donate",
-        "navigator"
+        "donate"
     ],
     "pluginsConfig": {
         "duoshuo": {
